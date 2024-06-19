@@ -1,0 +1,15 @@
+export const LOGIN_SUCCESS = 'Login Successfully';
+export const LOGIN_ERROR = 'Login Failed';
+export const SIGNUP_SUCCESS = 'Signup Successfully';
+export const SIGNUP_ERROR = 'Signup Failed';
+export const SIGNUP_EMAIL_EXIST_ERROR = 'User already exists with this email';
+export const SIGNUP_LIMIT_ERROR = 'Signup Limit Exceeded';
+export const LOGOUT_SUCCESS = 'Logout Successfully';
+export const LOGOUT_ERROR = 'Logout Failed';
+export const EDIT_PROFILE_SUCCESS = 'Profile Updated Successfully';
+export const EDIT_PROFILE_ERROR = 'Profile Update Failed';
+export const CHANGE_PASSWORD_SUCCESS = 'Password Changed Successfully';
+export const CHANGE_PASSWORD_MATCH_ERROR = 'Password do not match!!';
+export const CURRENT_PASSWORD_ERROR = 'Current Password is incorrect'
+export const CHANGE_PASSWORD_ERROR = 'Password Change Failed';
+export const USER_NOT_FOUND = 'User do not exist';
